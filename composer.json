@@ -1,5 +1,5 @@
 {
-    "name": "customgento/module-default-store-code-remover-m2",
+    "name": "amida/module-default-store-code-remover-m2",
     "description": "Default Store Code Remover for Magento 2 hides the store code in the default store from the URL.",
     "type": "magento2-module",
     "license": "OSL-3.0",
